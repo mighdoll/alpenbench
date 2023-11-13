@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   thimbleberry:
-    specifier: ^0.2.1
-    version: 0.2.1
+    specifier: ^0.2.8
+    version: 0.2.8
 
 devDependencies:
   '@webgpu/types':
@@ -316,8 +316,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /thimbleberry@0.2.1:
-    resolution: {integrity: sha512-IkH8sla5F1+xsXArkM/cdmllYluXd/jR40uKDhFG8KmKESABBsDwsaauDTUB9W58t2GYbqm8sO+BtLya3Oj18w==}
+  /thimbleberry@0.2.8:
+    resolution: {integrity: sha512-9Zy7glz1OfojmB/Gd1H5STQmvej8/wvw1jMliIvp/bBzV6TmNs1jp5kHdwVxSZMlbTVucb4luKRIVcEzqXbwPg==}
     dependencies:
       '@petamoriken/float16': 3.8.4
       '@reactively/core': 0.0.8
